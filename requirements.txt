@@ -1,6 +1,7 @@
-fastapi
-uvicorn
-pydantic
-dotenv
-openai
-anthropic
+fastapi==0.143.0
+uvicorn==0.54.0
+pydantic==2.14.1
+dotenv==0.9.9
+openai==3.29.0
+anthropic==1.13.0
+chromadb==1.5.9
